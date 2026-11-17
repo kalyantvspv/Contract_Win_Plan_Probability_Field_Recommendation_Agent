@@ -300,7 +300,7 @@ def run_agent(oid, user_question=None, status_container=None, max_steps=10):
         if status_container:
             status_container.update(label=f"Agent thinking… (step {step+1})", state="running")
         resp = client.chat.completions.create(model=LLM_MODEL, messages=messages, tools=OA_TOOLS,
-                                              tool_choice="auto", temperature=0.2, max_tokens=3000)
+                                              tool_choice="auto", max_tokens=3000)
         msg = resp.choices[0].message
         messages.append(msg.model_dump(exclude_none=True))
         calls = msg.tool_calls or []
