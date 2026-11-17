@@ -50,12 +50,12 @@ st.markdown("""<style>
 html, body, [class*="css"] { font-family: 'Inter', sans-serif; }
 .main > div { max-width: 1200px; }
 h1 { font-weight: 700; letter-spacing: -0.02em; font-size: 1.6rem; }
-.mc { background: var(--background-color, #f8f9fb); border: 1px solid #e2e6ea; border-radius: 8px; padding: 14px 18px; text-align: center; }
+.mc { background: var(--secondary-background-color, #f8f9fb); color: var(--text-color, #111827); border: 1px solid var(--border-color, #e2e6ea); border-radius: 8px; padding: 14px 18px; text-align: center; }
 .mc .v { font-size: 1.7rem; font-weight: 700; line-height: 1.1; }
-.mc .l { font-size: 0.75rem; color: #6b7280; margin-top: 4px; }
+.mc .l { font-size: 0.75rem; opacity: 0.72; margin-top: 4px; }
 .t-ar { color: #dc2626; } .t-co { color: #d97706; } .t-lw { color: #059669; }
-.ptag { display:inline-block; background:#e0f2fe; color:#0369a1; font-size:0.72rem; font-weight:600; padding:2px 7px; border-radius:4px; margin-right:5px; }
-.etag { display:inline-block; background:#f3f4f6; color:#6b7280; font-size:0.68rem; padding:1px 5px; border-radius:3px; margin-right:3px; font-family:monospace; }
+.ptag { display:inline-block; background:var(--secondary-background-color, #e0f2fe); color:var(--primary-color, #0369a1); font-size:0.72rem; font-weight:600; padding:2px 7px; border-radius:4px; margin-right:5px; }
+.etag { display:inline-block; background:var(--secondary-background-color, #f3f4f6); color:var(--text-color, #6b7280); font-size:0.68rem; padding:1px 5px; border-radius:3px; margin-right:3px; font-family:monospace; }
 </style>""", unsafe_allow_html=True)
 
 TEMOJI = {"At risk": "🔴", "Contested": "🟡", "Likely win": "🟢"}
