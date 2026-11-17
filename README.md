@@ -1,0 +1,2 @@
+# Contract_Win_Plan_Probability_Field_Recommendation_Agent
+Built an ML-powered sales decision system for Aurevia’s flu vaccine contracts, predicting win probabilities, identifying deal drivers, and estimating pricing scenarios. Integrated a Streamlit dashboard and AI sales coach leveraging call notes, account history, comparable deals, and approved playbooks to deliver evidence-based recommendations.
