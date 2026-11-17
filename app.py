@@ -316,8 +316,8 @@ def run_agent(oid, user_question=None, status_container=None, max_steps=10):
                 final = args
                 messages.append({"role":"tool","tool_call_id":tc.id,"content":"received"}); continue
             try:
-                call_args = dict(args); call_args["opportunity_id"] = oid
-                out = jsonable(TOOLS[name](**call_args)); status = "success"
+                call_args = dict(args); call_args.pop("opportunity_id", None)
+                out = jsonable(TOOLS[name](oid, **call_args)); status = "success"
                 seen_ids |= {n["note_id"] for n in out.get("notes",[])}
                 if status_container:
                     q = call_args.get("query","")
