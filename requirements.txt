@@ -1,0 +1,9 @@
+streamlit>=1.37
+pandas
+numpy
+matplotlib
+joblib
+scikit-learn      # PIN to the exact version used in notebook 02 (run `pip show scikit-learn` there), or final_model.joblib may fail to load
+lightgbm          # needed only if the saved model uses LGBMClassifier
+openai>=1.40      # OpenAI-compatible client: works with Gemini, Groq, OpenRouter, Ollama
+# mlflow          # optional: uncomment to enable the full Model Registry page (heavy install)

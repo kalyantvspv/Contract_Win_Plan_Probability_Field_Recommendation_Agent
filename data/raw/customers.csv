@@ -1,0 +1,301 @@
+customer_id,customer_name,customer_type,buying_group_id,region,state,bed_count,annual_flu_doses_est,relationship_years,clinical_committee_influence
+CUST00001,Harbor Riverside Medical Center,Health System,,Northeast,PA,1562,7497,5,High
+CUST00002,Fairview Summit Memorial Hospital,Health System,,Northeast,PA,1087,12541,8,High
+CUST00003,Meridian Health System — West Div.,IDN,BG005,Northeast,MA,10653,92617,8,High
+CUST00004,Fairview Riverside Health Partners,Health System,,Northeast,PA,2131,18092,5,High
+CUST00005,Cedar Eastview Healthcare Network,Independent Hospital,BG001,South,TX,199,2166,10,Medium
+CUST00006,Mount St. General Hospital,Health System,,Midwest,MN,1927,13406,8,Low
+CUST00007,Maple Bay Health Partners,Health System,,Midwest,IL,1374,11632,7,Medium
+CUST00008,Meridian St. Health Partners,Independent Hospital,,South,TN,441,4960,5,Medium
+CUST00009,Maple Highland Health Partners,Health System,,West,WA,1344,13340,3,Low
+CUST00010,NationalCare Purchasing,Buying Group,,Midwest,OH,12109,77813,3,High
+CUST00011,Bay Beacon Health Alliance,Health System,BG005,West,CA,835,8269,13,Medium
+CUST00012,Summit St. Regional Health,Health System,,West,WA,1350,11615,7,Medium
+CUST00013,Highland Cornerstone Health System,Health System,BG003,West,CO,1306,13335,9,Medium
+CUST00014,Summit Oakwood Memorial Hospital,Health System,,Northeast,NJ,2487,23637,11,Medium
+CUST00015,VaccineDirect Consortium,Buying Group,,South,GA,11610,115261,2,Low
+CUST00016,Riverside Cedar Healthcare Network,Independent Hospital,BG002,South,TX,491,2142,11,Medium
+CUST00017,Riverside Hillside Health System,Independent Hospital,BG002,West,CA,279,1956,5,Medium
+CUST00018,Meridian Summit Medical Center,Independent Hospital,BG004,Midwest,OH,566,6122,6,Medium
+CUST00019,Foundry Health System — South Div.,IDN,,Northeast,NJ,2962,25583,4,High
+CUST00020,Westfield Riverside Healthcare Network,Independent Hospital,BG002,Midwest,WI,221,2100,7,Medium
+CUST00021,Cedar Westfield Community Hospital,Health System,,South,TX,994,10661,1,Low
+CUST00022,Harbor Meridian Health System,Independent Hospital,,Midwest,MN,415,4897,7,Medium
+CUST00023,Eastview Maple General Hospital,Independent Hospital,,South,FL,223,2248,4,High
+CUST00024,Mount Cascade Memorial Hospital,Independent Hospital,,Midwest,IL,234,2620,10,Medium
+CUST00025,Lakeside Cedar Memorial Hospital,Independent Hospital,,South,TX,302,3326,13,High
+CUST00026,MediSource Alliance,Buying Group,,West,AZ,18569,84514,8,High
+CUST00027,Valley Summit Medical Group,Health System,BG001,South,NC,1228,6538,9,Low
+CUST00028,Harbor Hillside Regional Health,Health System,BG002,West,CO,2155,15529,9,High
+CUST00029,VaccineDirect Consortium,Buying Group,,Midwest,WI,15090,99472,6,High
+CUST00030,Hillside Maple Community Hospital,Health System,,West,CA,924,7484,8,Low
+CUST00031,Highland Cascade General Hospital,Health System,BG004,Northeast,MA,944,6938,6,High
+CUST00032,United Health Buyers,Buying Group,,South,FL,12536,97704,6,High
+CUST00033,Harbor Pine Health Partners,Health System,,South,FL,1322,12373,9,Medium
+CUST00034,Fairview Bay Regional Health,Health System,BG002,Northeast,NY,1387,15275,5,Low
+CUST00035,Beacon Valley Community Hospital,Independent Hospital,BG001,Northeast,CT,288,2717,5,Medium
+CUST00036,Harbor Highland Health Partners,Health System,BG005,Northeast,CT,1369,16387,4,High
+CUST00037,Bay Cascade Health System,Independent Hospital,BG002,Northeast,CT,313,2613,5,High
+CUST00038,Mount Bay Medical Center,Health System,,South,FL,1766,15990,3,Low
+CUST00039,Sunbelt Health Consortium — South Div.,IDN,BG004,Midwest,WI,8873,62722,6,Medium
+CUST00040,Summit Cedar Memorial Hospital,Independent Hospital,,South,GA,433,2470,11,Low
+CUST00041,Eastview Highland Health System,Health System,BG001,Northeast,CT,782,4063,4,Medium
+CUST00042,Maple Harbor Medical Group,Independent Hospital,BG003,Northeast,NY,237,2801,9,Low
+CUST00043,Valley Harbor Medical Group,Independent Hospital,BG005,Midwest,MI,390,3055,4,Medium
+CUST00044,Prairie Care Partners — North Div.,IDN,,West,OR,3241,14003,5,High
+CUST00045,Oakwood Bay Health Partners,Health System,BG005,West,CA,1026,6666,1,Medium
+CUST00046,Riverbend Health Partners — North Div.,IDN,BG004,West,AZ,5036,21521,6,Medium
+CUST00047,Fairview Eastview Healthcare Network,Independent Hospital,,South,FL,381,2238,4,Low
+CUST00048,Eastview Valley Health System,Independent Hospital,BG002,South,NC,496,3722,6,Medium
+CUST00049,Bay Oakwood Health Partners,Health System,BG003,Midwest,OH,1115,7851,2,Medium
+CUST00050,Northgate Cedar Medical Center,Independent Hospital,,Midwest,OH,337,2756,7,High
+CUST00051,Riverside Oakwood Regional Health,Health System,,Midwest,MI,1013,7485,9,Medium
+CUST00052,Cascade Cornerstone Health Alliance,Independent Hospital,,West,OR,232,1086,3,Low
+CUST00053,Cedar Valley Healthcare Network,Health System,BG003,Midwest,IL,591,6969,3,Medium
+CUST00054,Meridian Beacon Health Partners,Health System,,West,WA,1778,21224,8,High
+CUST00055,Summit Westfield Medical Center,Independent Hospital,,South,TX,367,2872,10,Low
+CUST00056,Cascade Fairview General Hospital,Independent Hospital,,Northeast,NJ,222,998,5,Medium
+CUST00057,Cascade Westfield Community Hospital,Independent Hospital,BG001,Northeast,NY,440,2459,6,High
+CUST00058,Harbor Prairie General Hospital,Independent Hospital,,West,OR,290,2204,0,Medium
+CUST00059,Lakeside Cornerstone Regional Health,Independent Hospital,,Midwest,MN,316,3731,6,Medium
+CUST00060,NationalCare Purchasing,Buying Group,,Midwest,MN,12734,116726,5,High
+CUST00061,St. Fairview Community Hospital,Independent Hospital,,South,NC,336,2710,10,Medium
+CUST00062,Southport Pine Health Partners,Health System,,West,WA,989,6867,5,Medium
+CUST00063,Riverside Harbor Community Hospital,Health System,,South,NC,1370,10940,11,Low
+CUST00064,Harbor Southport Health Alliance,Health System,,Midwest,MI,2271,9523,8,High
+CUST00065,Maple Oakwood Health System,Independent Hospital,,West,WA,497,3028,7,Medium
+CUST00066,Pine Westfield Health Partners,Health System,BG003,Northeast,MA,1609,15770,7,Low
+CUST00067,St. Meridian Health System,Health System,BG002,West,CO,2696,11904,5,Low
+CUST00068,Northgate St. General Hospital,Independent Hospital,,West,AZ,198,1706,6,High
+CUST00069,Hillside Lakeside Memorial Hospital,Health System,BG003,South,TN,2172,19716,6,Low
+CUST00070,Mount Bay Health Alliance,Independent Hospital,BG003,Midwest,IL,460,2362,6,Medium
+CUST00071,Cedar Cedar Medical Group,Independent Hospital,BG003,South,TX,660,6088,7,High
+CUST00072,MediSource Alliance,Buying Group,,Midwest,IL,17066,181499,8,Low
+CUST00073,Westfield Oakwood Regional Health,Health System,,West,WA,1039,9632,3,Medium
+CUST00074,Cascade Northgate Health Partners,Health System,,Midwest,MN,1331,11719,9,Medium
+CUST00075,Pine Summit Health Partners,Health System,,South,TX,1067,5011,8,Low
+CUST00076,Summit Care Network — South Div.,IDN,,Midwest,OH,5644,58713,7,Medium
+CUST00077,Maple Westfield Memorial Hospital,Health System,,South,TN,1829,20633,5,Medium
+CUST00078,Highland Lakeside Healthcare Network,Health System,,West,OR,1160,5055,1,Low
+CUST00079,Cascade Harbor Health System,Health System,,Midwest,WI,949,6608,9,High
+CUST00080,Beacon Southport Medical Group,Independent Hospital,BG004,Midwest,MI,386,2471,7,High
+CUST00081,Riverside Bay Memorial Hospital,Health System,,Midwest,MN,947,6716,10,High
+CUST00082,Cedar Prairie Medical Center,Independent Hospital,,South,TX,513,6117,1,Low
+CUST00083,Eastview Westfield Memorial Hospital,Independent Hospital,BG004,West,CO,208,1802,7,Low
+CUST00084,Eastview Bay Medical Center,Health System,,Midwest,OH,1093,9876,3,Low
+CUST00085,Coastal Health Alliance — East Div.,IDN,BG004,Northeast,NY,5427,27334,8,Low
+CUST00086,Bay Cedar Medical Center,Independent Hospital,BG004,South,NC,578,3771,5,Medium
+CUST00087,Prairie Cedar Health Partners,Health System,BG002,West,CA,1102,13012,4,Low
+CUST00088,Bay Summit Medical Group,Health System,,West,WA,1409,12901,6,Medium
+CUST00089,Maple Westfield Regional Health,Independent Hospital,,Midwest,MI,214,2503,6,High
+CUST00090,Fairview Eastview Health Alliance,Independent Hospital,,South,TN,218,2517,4,Medium
+CUST00091,Pinnacle Care System — West Div.,IDN,,Midwest,WI,5527,39916,7,Medium
+CUST00092,Northgate Cornerstone Memorial Hospital,Independent Hospital,,West,WA,535,4269,10,Low
+CUST00093,Riverside Riverside Healthcare Network,Independent Hospital,BG002,Northeast,CT,200,2212,7,High
+CUST00094,Hillside Cornerstone Healthcare Network,Independent Hospital,,Northeast,NY,533,3396,8,Medium
+CUST00095,Beacon Fairview Medical Center,Independent Hospital,BG003,Midwest,MN,397,1668,2,Medium
+CUST00096,Cascade Harbor General Hospital,Independent Hospital,,Midwest,MI,161,884,4,High
+CUST00097,Mount Valley Health System,Independent Hospital,BG003,South,FL,350,2933,3,Medium
+CUST00098,Riverside Bay Memorial Hospital,Health System,,Midwest,WI,1762,15646,7,Low
+CUST00099,Maple Westfield Medical Group,Independent Hospital,BG002,Midwest,OH,324,2420,5,Medium
+CUST00100,Oakwood Cornerstone Regional Health,Independent Hospital,,Midwest,MI,132,947,10,Low
+CUST00101,Summit Beacon Memorial Hospital,Independent Hospital,BG005,West,OR,237,1480,7,Medium
+CUST00102,Cedar Beacon Health Partners,Health System,BG003,Midwest,OH,1211,9718,7,Low
+CUST00103,Riverside Mount Health Partners,Health System,BG005,West,CO,802,9366,3,Medium
+CUST00104,St. Cedar Memorial Hospital,Health System,BG002,Midwest,IL,1901,13810,5,High
+CUST00105,Pine Cornerstone Medical Group,Independent Hospital,BG002,West,AZ,377,3153,9,Medium
+CUST00106,Northgate Maple Healthcare Network,Health System,,Northeast,NJ,1553,15551,2,Medium
+CUST00107,Mount Pine Healthcare Network,Health System,BG004,Northeast,CT,1150,9264,7,Medium
+CUST00108,MediSource Alliance,Buying Group,,West,AZ,16422,94226,2,Medium
+CUST00109,NationalCare Purchasing,Buying Group,,South,GA,12486,57957,6,Medium
+CUST00110,Summit Beacon Community Hospital,Health System,BG002,South,GA,562,6119,4,Medium
+CUST00111,Great Plains Health Network — Central Div.,IDN,,Midwest,OH,7725,80513,8,Low
+CUST00112,Cascade IDN — South Div.,IDN,,West,CA,5164,39866,4,Low
+CUST00113,Oakwood Maple Community Hospital,Independent Hospital,,Midwest,MN,526,2989,3,Medium
+CUST00114,Maple Mount Health Alliance,Independent Hospital,BG001,Midwest,IL,230,2744,6,Low
+CUST00115,Fairview Westfield Medical Center,Health System,BG005,Northeast,NJ,2841,23924,3,Low
+CUST00116,Fairview Prairie Medical Center,Health System,BG002,Northeast,CT,1154,4622,9,Low
+CUST00117,Mount Eastview Medical Group,Independent Hospital,BG001,Northeast,NY,249,2221,6,High
+CUST00118,Riverbend Health Partners — Central Div.,IDN,,West,WA,3048,30466,8,Medium
+CUST00119,HealthCoop National,Buying Group,,Midwest,MN,17772,82311,3,Medium
+CUST00120,Northlake Health Network — Central Div.,IDN,,West,AZ,8185,53292,7,High
+CUST00121,Cedar Pine General Hospital,Health System,,South,GA,1415,12005,4,Low
+CUST00122,Meridian Cedar Memorial Hospital,Independent Hospital,BG005,Northeast,CT,243,1463,4,Medium
+CUST00123,Valley Riverside Health Alliance,Health System,,South,TN,1429,8571,3,Low
+CUST00124,Meridian Health System — Central Div.,IDN,BG004,Midwest,MN,3267,27626,6,Medium
+CUST00125,Meridian Mount Health Alliance,Health System,,Midwest,OH,1470,16482,1,Low
+CUST00126,Cedar Cornerstone Health Alliance,Health System,BG001,South,TN,1549,8181,5,Low
+CUST00127,Summit Care Network — Central Div.,IDN,BG003,South,FL,3370,23296,7,Medium
+CUST00128,Prairie Summit Memorial Hospital,Health System,BG004,West,CO,1038,11715,7,Medium
+CUST00129,Cascade IDN — North Div.,IDN,BG002,Midwest,WI,5550,52004,3,Medium
+CUST00130,Bay Summit Healthcare Network,Health System,BG004,South,FL,1089,5532,5,Medium
+CUST00131,Prairie Care Partners — North Div.,IDN,BG005,South,NC,4678,48858,7,Medium
+CUST00132,Beacon Prairie General Hospital,Health System,,Midwest,MN,1995,13449,6,Medium
+CUST00133,MediSource Alliance,Buying Group,,South,TX,12035,55942,6,Medium
+CUST00134,Pinnacle Care System — Central Div.,IDN,BG003,West,AZ,4514,46819,7,Medium
+CUST00135,Eastview Riverside General Hospital,Health System,BG004,South,TN,1890,21796,3,Medium
+CUST00136,Westfield Maple Health Partners,Independent Hospital,,West,CA,134,1009,6,High
+CUST00137,Summit Oakwood Health System,Health System,BG001,South,GA,1794,11428,7,Medium
+CUST00138,Cedar Bay Health System,Independent Hospital,,Midwest,WI,235,1366,1,Medium
+CUST00139,Lakeside Pine Medical Group,Health System,BG005,Northeast,CT,1580,15973,6,Low
+CUST00140,Westfield Highland Community Hospital,Independent Hospital,,Midwest,OH,317,1383,11,Medium
+CUST00141,Meridian Harbor Health Partners,Health System,BG001,West,CA,2261,16155,6,High
+CUST00142,Northlake Health Network — Central Div.,IDN,BG002,South,GA,8739,74704,5,Low
+CUST00143,Lakeside Cascade General Hospital,Health System,BG001,South,TX,727,5306,3,Low
+CUST00144,Oakwood Summit General Hospital,Health System,,Northeast,CT,1168,5809,3,Medium
+CUST00145,Coastal Health Alliance — Central Div.,IDN,,South,NC,3565,33336,6,Medium
+CUST00146,HealthCoop National,Buying Group,,South,TN,11597,74534,5,Medium
+CUST00147,Blueridge IDN — North Div.,IDN,,South,TX,6026,55032,5,Medium
+CUST00148,Summit Care Network — West Div.,IDN,BG003,West,CO,4556,23023,7,High
+CUST00149,Highland Prairie Memorial Hospital,Health System,,Northeast,CT,1800,8821,9,Low
+CUST00150,Cascade Harbor Community Hospital,Health System,BG001,Midwest,IL,1934,14976,8,Medium
+CUST00151,United Health Buyers,Buying Group,,Northeast,NY,13621,95327,8,High
+CUST00152,Pinnacle Care System — North Div.,IDN,BG002,South,TN,3502,25311,5,Low
+CUST00153,Mount Cedar Healthcare Network,Independent Hospital,BG002,Midwest,IL,188,783,6,Medium
+CUST00154,Blueridge IDN — East Div.,IDN,BG003,West,CA,2602,21795,7,High
+CUST00155,Northlake Health Network — North Div.,IDN,,Northeast,NJ,6314,43236,4,Medium
+CUST00156,Oakwood Harbor Community Hospital,Independent Hospital,BG004,Midwest,IL,274,1418,8,Low
+CUST00157,Pine Fairview Medical Group,Independent Hospital,,South,NC,326,3244,9,Low
+CUST00158,Westfield Highland Healthcare Network,Health System,,West,OR,2878,26747,7,High
+CUST00159,Westfield St. General Hospital,Independent Hospital,BG003,South,TX,317,3114,7,Low
+CUST00160,Coastal Health Alliance — West Div.,IDN,BG002,Northeast,NY,3300,14295,6,Low
+CUST00161,Riverbend Health Partners — East Div.,IDN,BG001,Midwest,WI,6762,53543,4,Medium
+CUST00162,Hillside Eastview Health Partners,Health System,BG003,Northeast,CT,1399,10717,11,Medium
+CUST00163,Oakwood Cornerstone Regional Health,Independent Hospital,BG002,Northeast,NJ,636,4600,10,Low
+CUST00164,Mount Lakeside Health System,Health System,BG005,Midwest,OH,736,3686,2,High
+CUST00165,Mount Hillside Memorial Hospital,Independent Hospital,,South,GA,279,2832,3,Low
+CUST00166,Cascade Bay General Hospital,Independent Hospital,BG001,Midwest,MN,143,625,4,Medium
+CUST00167,Sunbelt Health Consortium — Central Div.,IDN,,South,FL,4563,42517,5,Medium
+CUST00168,Great Plains Health Network — Central Div.,IDN,BG001,Midwest,WI,3637,38972,7,Low
+CUST00169,Foundry Health System — West Div.,IDN,BG003,Northeast,NJ,3160,32446,4,Medium
+CUST00170,Bay Pine Regional Health,Health System,,Northeast,NJ,1065,12495,9,Low
+CUST00171,Cornerstone St. Regional Health,Independent Hospital,,Northeast,MA,329,3558,7,Medium
+CUST00172,Foundry Health System — North Div.,IDN,,South,NC,4629,50624,4,Medium
+CUST00173,Cornerstone Cascade Memorial Hospital,Health System,BG003,Midwest,MN,1991,9374,3,Low
+CUST00174,Blueridge IDN — West Div.,IDN,,West,CO,3043,29617,3,Low
+CUST00175,Foundry Health System — East Div.,IDN,BG001,West,OR,8293,69454,5,Medium
+CUST00176,Valley Mount Medical Group,Health System,,South,TN,1363,10195,7,Medium
+CUST00177,Bay Maple Medical Group,Health System,,West,OR,1214,9362,5,Medium
+CUST00178,VaccineDirect Consortium,Buying Group,,Midwest,OH,11429,93746,4,Medium
+CUST00179,Lakeside Bay Memorial Hospital,Independent Hospital,,Northeast,PA,365,1532,1,Low
+CUST00180,Northlake Health Network — West Div.,IDN,BG001,South,NC,5873,58339,4,High
+CUST00181,Valley Prairie Community Hospital,Independent Hospital,BG001,South,GA,284,2547,3,High
+CUST00182,Cedar Summit Health System,Independent Hospital,BG001,South,TX,286,2318,8,Low
+CUST00183,Cascade IDN — Central Div.,IDN,BG003,Northeast,MA,3894,35221,10,Low
+CUST00184,Valley Cascade Health Partners,Independent Hospital,,Midwest,OH,144,1520,8,Medium
+CUST00185,Sunbelt Health Consortium — East Div.,IDN,,South,FL,3697,16656,4,High
+CUST00186,MediSource Alliance,Buying Group,,South,NC,17316,71909,10,Low
+CUST00187,Summit Pine Health Alliance,Health System,BG005,Northeast,PA,1185,11395,5,Medium
+CUST00188,Blueridge IDN — East Div.,IDN,BG003,South,TX,4301,41648,6,High
+CUST00189,Coastal Health Alliance — Central Div.,IDN,BG003,West,AZ,4782,54517,7,Low
+CUST00190,Great Plains Health Network — North Div.,IDN,BG003,Midwest,WI,5666,65828,2,High
+CUST00191,Fairview Prairie Healthcare Network,Health System,BG002,Northeast,MA,1498,9026,4,Low
+CUST00192,Meridian Southport General Hospital,Independent Hospital,,Midwest,OH,333,3640,1,Medium
+CUST00193,Valley Eastview Memorial Hospital,Health System,,West,CA,1532,9055,6,Medium
+CUST00194,Blueridge IDN — East Div.,IDN,BG003,Midwest,OH,6110,33677,4,Medium
+CUST00195,Foundry Health System — South Div.,IDN,BG004,Midwest,MI,3748,15532,7,Medium
+CUST00196,St. Southport Health Partners,Independent Hospital,BG002,Northeast,CT,283,3365,3,High
+CUST00197,Cascade Fairview Memorial Hospital,Independent Hospital,,Midwest,IL,309,3445,9,Medium
+CUST00198,Hillside Cornerstone General Hospital,Independent Hospital,,Midwest,WI,232,2619,3,Low
+CUST00199,Cascade Prairie Health Alliance,Health System,BG004,South,NC,1863,9247,9,Low
+CUST00200,Prairie Cascade General Hospital,Health System,BG004,Northeast,NY,1565,8047,6,Medium
+CUST00201,Fairview Lakeside Health Partners,Independent Hospital,,Northeast,NJ,331,1547,4,Low
+CUST00202,Lakeside Cascade Healthcare Network,Health System,,Midwest,MI,1572,11496,7,Low
+CUST00203,Sunbelt Health Consortium — South Div.,IDN,BG005,South,TN,5972,35672,8,Low
+CUST00204,Foundry Health System — North Div.,IDN,,South,NC,3976,25796,9,Low
+CUST00205,Westfield Oakwood Memorial Hospital,Health System,,Midwest,MI,883,10592,8,High
+CUST00206,Great Plains Health Network — South Div.,IDN,,Midwest,MN,3443,17266,7,High
+CUST00207,Cascade Fairview Regional Health,Independent Hospital,,South,NC,313,2962,2,Medium
+CUST00208,Meridian Eastview Community Hospital,Health System,,Midwest,IL,667,7893,3,Medium
+CUST00209,Valley Westfield Medical Center,Independent Hospital,BG001,Midwest,MN,321,1438,5,Medium
+CUST00210,Lakeside Lakeside Memorial Hospital,Health System,BG002,South,NC,1367,8293,5,Medium
+CUST00211,Cornerstone Eastview Health Alliance,Health System,,West,CA,1280,7740,5,Medium
+CUST00212,Harbor Prairie Medical Group,Independent Hospital,,West,OR,330,3285,0,Low
+CUST00213,Beacon Beacon Memorial Hospital,Health System,BG005,Midwest,OH,1769,18522,3,Medium
+CUST00214,Riverbend Health Partners — South Div.,IDN,BG003,South,GA,7373,61914,8,Medium
+CUST00215,Fairview Pine General Hospital,Independent Hospital,BG005,Midwest,IL,170,918,7,Medium
+CUST00216,VaccineDirect Consortium,Buying Group,,Midwest,OH,20117,124630,6,High
+CUST00217,Southport Cascade Health Alliance,Health System,BG004,Northeast,NJ,1130,12979,11,Medium
+CUST00218,Sunbelt Health Consortium — East Div.,IDN,,Midwest,IL,7854,84034,6,High
+CUST00219,Bay Cascade Community Hospital,Health System,BG003,Northeast,CT,837,5548,7,Medium
+CUST00220,Meridian Health System — West Div.,IDN,,Midwest,IL,6483,67483,4,Medium
+CUST00221,Oakwood St. Medical Center,Independent Hospital,BG001,South,TX,259,1693,0,High
+CUST00222,Bay Northgate Health Alliance,Health System,BG004,South,NC,1721,18484,4,Medium
+CUST00223,Cedar Beacon Healthcare Network,Independent Hospital,,West,WA,475,3631,3,Medium
+CUST00224,Harbor Eastview Memorial Hospital,Health System,BG001,West,AZ,1238,12962,3,Low
+CUST00225,Highland Highland Healthcare Network,Independent Hospital,,West,OR,111,977,0,Low
+CUST00226,NationalCare Purchasing,Buying Group,,Northeast,NJ,14239,108479,2,Low
+CUST00227,Great Plains Health Network — West Div.,IDN,BG003,South,TN,3261,26975,8,Medium
+CUST00228,Oakwood Harbor Medical Center,Independent Hospital,BG001,West,AZ,330,1951,12,High
+CUST00229,Riverside Cornerstone Memorial Hospital,Independent Hospital,BG003,South,TN,95,513,0,Medium
+CUST00230,Prairie Care Partners — Central Div.,IDN,BG002,West,WA,4021,20827,6,High
+CUST00231,NationalCare Purchasing,Buying Group,,South,NC,8549,79919,5,Low
+CUST00232,Mount Westfield Memorial Hospital,Health System,BG004,Midwest,IL,1068,9449,4,Low
+CUST00233,Coastal Health Alliance — South Div.,IDN,,Midwest,MN,3375,34308,2,Medium
+CUST00234,Oakwood Beacon Health Partners,Health System,,Midwest,MI,737,8494,6,Low
+CUST00235,Westfield Meridian Health System,Independent Hospital,BG004,Midwest,MN,419,3358,0,Medium
+CUST00236,Beacon Meridian Health Partners,Independent Hospital,BG003,Northeast,NY,275,2235,5,Low
+CUST00237,Cornerstone Westfield Medical Group,Independent Hospital,,Northeast,NJ,340,1725,1,High
+CUST00238,Pine Fairview Medical Group,Health System,,Northeast,CT,836,7240,13,Medium
+CUST00239,Beacon Summit Memorial Hospital,Health System,BG002,Northeast,NY,1804,17050,8,Low
+CUST00240,Harbor Summit Health Partners,Independent Hospital,,South,TX,293,2815,5,Medium
+CUST00241,Pinnacle Care System — West Div.,IDN,,Midwest,MI,3030,21636,9,Low
+CUST00242,Blueridge IDN — South Div.,IDN,,Northeast,NY,5871,63414,4,Low
+CUST00243,Cedar Highland Community Hospital,Health System,BG004,West,AZ,1950,10252,3,Medium
+CUST00244,Bay Summit Health System,Health System,BG005,West,WA,1628,15841,7,Low
+CUST00245,Prairie Westfield General Hospital,Independent Hospital,,South,GA,762,3618,6,Low
+CUST00246,Oakwood Oakwood Memorial Hospital,Health System,,West,WA,1449,16586,0,Low
+CUST00247,Valley Highland Regional Health,Independent Hospital,BG005,Midwest,IL,273,3034,6,Medium
+CUST00248,Highland Maple General Hospital,Health System,,West,AZ,1327,5446,11,Medium
+CUST00249,Cornerstone Cornerstone Health System,Health System,BG003,South,TN,816,7339,7,High
+CUST00250,Westfield Beacon Healthcare Network,Independent Hospital,BG004,Midwest,OH,204,838,1,Medium
+CUST00251,Mount Maple Healthcare Network,Independent Hospital,,West,AZ,133,1057,2,Medium
+CUST00252,Valley Eastview Medical Center,Health System,,Northeast,NY,2139,16646,4,Low
+CUST00253,Eastview Valley Medical Group,Health System,,West,OR,2175,13552,7,Low
+CUST00254,MediSource Alliance,Buying Group,,Northeast,NY,17225,97976,4,Low
+CUST00255,VaccineDirect Consortium,Buying Group,,Northeast,NJ,10921,47153,1,Medium
+CUST00256,Lakeside Valley Healthcare Network,Health System,BG004,Midwest,IL,1404,8664,2,Medium
+CUST00257,Westfield Fairview Health Partners,Health System,BG004,Northeast,CT,1678,9945,7,Medium
+CUST00258,United Health Buyers,Buying Group,,South,TN,12890,63260,3,Low
+CUST00259,Meridian Health System — South Div.,IDN,BG004,West,CO,4320,36879,4,Medium
+CUST00260,Bay Summit Healthcare Network,Health System,,South,GA,1582,7930,7,Low
+CUST00261,Northgate St. Healthcare Network,Independent Hospital,,Midwest,WI,207,1783,4,Medium
+CUST00262,Prairie Cascade Healthcare Network,Independent Hospital,,Northeast,MA,217,2189,2,High
+CUST00263,Fairview Pine Medical Group,Independent Hospital,,West,CA,622,3533,7,Medium
+CUST00264,Prairie Care Partners — Central Div.,IDN,BG004,Northeast,MA,7451,60852,5,Low
+CUST00265,Westfield St. Healthcare Network,Health System,BG004,West,CA,1015,5082,4,High
+CUST00266,Eastview Eastview Medical Center,Health System,BG003,West,CO,1443,7602,0,Low
+CUST00267,Coastal Health Alliance — South Div.,IDN,BG003,South,NC,6976,54154,5,Medium
+CUST00268,Oakwood Beacon Regional Health,Independent Hospital,BG001,West,AZ,194,1363,4,Medium
+CUST00269,Northlake Health Network — North Div.,IDN,BG001,Midwest,IL,5867,56080,8,Medium
+CUST00270,Valley Prairie Memorial Hospital,Independent Hospital,BG005,Northeast,CT,312,3046,3,Medium
+CUST00271,NationalCare Purchasing,Buying Group,,Northeast,CT,13060,57296,0,Low
+CUST00272,Prairie Prairie Healthcare Network,Independent Hospital,BG005,Midwest,MN,459,4991,7,High
+CUST00273,Blueridge IDN — South Div.,IDN,BG005,South,TX,4655,26017,9,Low
+CUST00274,Summit Cedar Medical Group,Health System,BG002,Northeast,PA,1316,13931,9,Low
+CUST00275,St. Fairview Health Partners,Health System,BG003,Northeast,NY,1129,10605,8,High
+CUST00276,Mount Hillside Memorial Hospital,Health System,,Midwest,OH,928,6643,4,Medium
+CUST00277,Harbor Cedar Medical Center,Health System,,West,WA,1071,8730,7,High
+CUST00278,St. Bay Memorial Hospital,Health System,,Midwest,MN,1195,13056,3,Medium
+CUST00279,Northlake Health Network — Central Div.,IDN,,Midwest,OH,4045,29694,4,High
+CUST00280,Oakwood Bay Regional Health,Independent Hospital,,Northeast,CT,144,710,8,Low
+CUST00281,Northgate Cascade General Hospital,Independent Hospital,BG002,Northeast,PA,307,1440,7,Medium
+CUST00282,Eastview Maple Medical Group,Independent Hospital,,Midwest,MN,324,2433,0,Medium
+CUST00283,Foundry Health System — North Div.,IDN,BG004,West,WA,3342,29011,5,Medium
+CUST00284,Hillside Pine Health Alliance,Health System,,Midwest,WI,1799,17735,4,Medium
+CUST00285,Meridian Fairview General Hospital,Health System,BG005,West,OR,907,10625,2,Medium
+CUST00286,Pine Lakeside General Hospital,Health System,,Northeast,NY,1569,7737,4,Medium
+CUST00287,Eastview St. Community Hospital,Independent Hospital,BG004,Northeast,CT,230,1007,7,Medium
+CUST00288,Eastview Cascade Healthcare Network,Health System,,Northeast,MA,923,6834,6,Medium
+CUST00289,Valley Highland Memorial Hospital,Independent Hospital,BG002,Midwest,IL,368,2342,7,Medium
+CUST00290,Cedar Eastview Memorial Hospital,Health System,BG001,Northeast,CT,1889,8181,7,Medium
+CUST00291,Riverside Highland Community Hospital,Health System,BG005,West,CO,1708,12266,11,Medium
+CUST00292,Cascade Meridian General Hospital,Health System,BG003,Northeast,MA,877,4694,4,High
+CUST00293,Eastview Mount Health System,Independent Hospital,,South,TX,239,2240,7,High
+CUST00294,Westfield Cornerstone Health System,Independent Hospital,BG002,South,GA,429,2153,3,Medium
+CUST00295,Cedar Southport Health System,Health System,,Midwest,MN,1795,13645,5,Low
+CUST00296,St. Cornerstone Medical Group,Independent Hospital,,Northeast,CT,428,3469,9,Medium
+CUST00297,Riverside Cornerstone Health System,Independent Hospital,,Northeast,PA,291,3268,3,Medium
+CUST00298,Harbor Beacon Regional Health,Health System,BG002,West,OR,1281,7697,6,Medium
+CUST00299,Great Plains Health Network — West Div.,IDN,,West,WA,7390,32519,3,Medium
+CUST00300,Fairview Southport Community Hospital,Health System,,West,CO,873,5593,9,Medium
