@@ -32,6 +32,7 @@ def _secret(key, default=None):
 
 # LLM provider: any OpenAI-compatible endpoint. Change in secrets, no code edits needed.
 PROVIDERS = {
+    "anthropic":  ("https://api.anthropic.com/v1/",                         "claude-sonnet-5-5"),
     "gemini":     ("https://generativelanguage.googleapis.com/v1beta/openai/", "gemini-2.5-flash"),
     "groq":       ("https://api.groq.com/openai/v1",                            "llama-3.3-70b-versatile"),
     "openrouter": ("https://openrouter.ai/api/v1",                              "meta-llama/llama-3.3-70b-instruct:free"),
